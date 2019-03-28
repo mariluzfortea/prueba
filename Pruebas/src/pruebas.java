@@ -19,7 +19,6 @@ public class pruebas {
 
     public static void main (String[ ] Args) {
 
-        System.out.println ("Veamos que hay en Pepe, cambiando");
 
         System.out.println ("Pepe es igual a " + pruebas.getAtrib1()); //eliminación del this.
 
